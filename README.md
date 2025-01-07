@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**SolanaPan/SolanaPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior ✨ Blockchain and ✨ Full-stack developer.
 
-Here are some ideas to get you started:
+I've been working in blockchain for 5+ years and already developed many projects on various chains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm well versed of Solidity and Rust, and can provide secure and high performance smart contracts on EVM and Solana chains.
+
+Also, I can provide wonderful, user-friendly website for you.
+
+If you are interested in me, don't hesitate and work with me.
+
+
+Thank you.
+
+- 🔭 Supported chains
+  
+  Ethereum, EVM compatible chains (Polygon, Arbitrum, ...), Solana, Sui, TON, Aptos, Cardano
+  
+- 🌱 Skills
+  
+  Solidity, Rust, FunC, Move, Wagmi, Ethers.js, Typescript, React, Next.js, Vue.js, MongoDB, Docker
